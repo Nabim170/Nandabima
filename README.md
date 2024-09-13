@@ -1,29 +1,18 @@
-# vue - project
+# Web Application with Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+This web application, built with Vue.js, includes:
+- A Click Counter
+- A Box Color Changer
+- An Image Carousel
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1. **Click Counter**:
+   - A button increments a counter each time it is clicked.
+   - Displays the current count on the page.
 
-## Customize configuration
+2. **Box Color Changer**:
+   - A button changes the color of a box to a random color each time it is clicked.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+3. **Image Carousel**:
+   - A carousel component that rotates through a series of images with navigation controls.

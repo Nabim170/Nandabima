@@ -1,0 +1,91 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# npm package lock
+package-lock.json
+yarn.lock
+
+# Vue CLI
+/.vuepress/dist
+/.cache
+
+# Production
+/build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Code coverage
+coverage/
+*.lcov
+
+# Other
+*.swp
+*.swo
+
+# Local environment files
+*.local
+
+# Testing
+*.test.js
+*.spec.js
+
+# Typescript
+*.tsbuildinfo
+
+# Tern JS
+.tern-port
+
+# Typescript build cache
+*.tsbuildinfo
+
+# Yarn
+.yarn/
+.yarn-cache/
+.pnp.*
+
+# Next.js build output
+.next/
+out/
+
+# JetBrains IDEs
+.idea/
+
+# Vite
+.vite/
+
+# Svelte
+.svelte-kit/
